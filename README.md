@@ -16,6 +16,8 @@ A library of validators
 * [Tests](#tests)
 
 ---------------
+[**Please use the newest version**](https://www.npmjs.com/package/sog-validator)
+
 
 ### Installation and Using
 
